@@ -8,9 +8,9 @@ Docs: http://docs.astronomer.io/docs/nodejs
 
 ##Install 
 
-###1) Clone Repo `git clone https://github.com/astronomerio/analytics-node-example.git`
+####1) Clone Repo `git clone https://github.com/astronomerio/analytics-node-example.git`
 
-###2) run `npm install`
+####2) run `npm install`
 
 ##Node Example
 
